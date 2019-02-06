@@ -1,6 +1,7 @@
 ## Multiple Outbreak Detection System (MODS).
-Contents: Multiple Outbreak Detection System
-Author:   John Aronis, University of Pittsburgh
+*Contents*: Multiple Outbreak Detection System
+
+*Author*:   John Aronis, University of Pittsburgh
 
 This project uses the Maven project management tool.  Please install Maven
 before continuing to read this document.  Maven can be downloaded from
