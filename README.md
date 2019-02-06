@@ -6,7 +6,8 @@ before continuing to read this document.  Maven can be downloaded from
 https://maven.apache.org/download.cgi.
 
 To run MODS, first build the executable jar file by executing the command:
-    mvn package
+
+    `mvn package`
 
 Once the package is built, run with:
   java -jar target/mods-1.0-SNAPSHOT-jar-with-dependencies.jar <data> <models> <start>
