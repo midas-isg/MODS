@@ -1,6 +1,4 @@
 ## Multiple Outbreak Detection System (MODS).
-*Contents*: Multiple Outbreak Detection System
-
 *Author*:   John Aronis, University of Pittsburgh
 
 This project uses the Maven project management tool.  Please install Maven
@@ -16,4 +14,3 @@ Once the package is built, run with:
 where <data> is the (full or relative path name to) the input file,
 <models> is the number of models to test, and <start> is the day to
 start making predictions (where the first day of the data file is day 0).
-
