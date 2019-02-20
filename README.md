@@ -18,3 +18,6 @@ The parameters are as follows:
 - *models*: the number of models to test
 - *start*: is the day to start making predictions (where the first day of the data file is day 0).
 
+### Funding Acknowledgement
+
+MODS was funded by National Institutes of Health grant R01 LM011370 on Probabilistic Disease Surveillance.
